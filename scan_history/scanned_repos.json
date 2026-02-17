@@ -2568,8 +2568,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "TheSatyam-Singh/-LLaVA-Large-Language-Virtual-Assistant": {
+      "first_scan": "2026-02-17 04:11:13",
+      "last_scan": "2026-02-17 04:11:13",
+      "findings_count": 1,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 367,
-  "last_updated": "2026-02-09 04:44:39"
+  "total_scanned": 368,
+  "last_updated": "2026-02-17 04:11:13"
 }
