@@ -2736,8 +2736,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "ThalleSantana/TCC_UNIP_CC": {
+      "first_scan": "2026-02-19 04:31:06",
+      "last_scan": "2026-02-19 04:31:06",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:failed",
+      "scan_count": 1
     }
   },
-  "total_scanned": 391,
-  "last_updated": "2026-02-18 04:49:53"
+  "total_scanned": 392,
+  "last_updated": "2026-02-19 04:31:06"
 }
