@@ -2897,8 +2897,29 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "xorbitsai/xagent": {
+      "first_scan": "2026-02-28 04:09:23",
+      "last_scan": "2026-02-28 04:09:23",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "openclaw/skills": {
+      "first_scan": "2026-02-28 04:09:23",
+      "last_scan": "2026-02-28 04:09:23",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
+    },
+    "martin98-afk/CanvasMind": {
+      "first_scan": "2026-02-28 04:09:24",
+      "last_scan": "2026-02-28 04:09:24",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects:no-access",
+      "scan_count": 1
     }
   },
-  "total_scanned": 414,
-  "last_updated": "2026-02-27 04:30:04"
+  "total_scanned": 417,
+  "last_updated": "2026-02-28 04:09:24"
 }
