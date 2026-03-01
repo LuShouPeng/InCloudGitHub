@@ -2918,8 +2918,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects:no-access",
       "scan_count": 1
+    },
+    "enginsancak/agentic_rag_bot_openai-api": {
+      "first_scan": "2026-03-01 04:34:45",
+      "last_scan": "2026-03-01 04:34:45",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 417,
-  "last_updated": "2026-02-28 04:09:24"
+  "total_scanned": 418,
+  "last_updated": "2026-03-01 04:34:45"
 }
