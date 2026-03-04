@@ -2960,8 +2960,29 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "Gaystin/LLM-IDf-EnergyPlus-UI": {
+      "first_scan": "2026-03-04 04:01:09",
+      "last_scan": "2026-03-04 04:01:09",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "TU-Wien-dataLAB/aqueduct": {
+      "first_scan": "2026-03-04 04:04:45",
+      "last_scan": "2026-03-04 04:04:45",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "Adhithyan2004/moodswings": {
+      "first_scan": "2026-03-04 04:16:33",
+      "last_scan": "2026-03-04 04:16:33",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 423,
-  "last_updated": "2026-03-03 04:20:20"
+  "total_scanned": 426,
+  "last_updated": "2026-03-04 04:16:33"
 }
