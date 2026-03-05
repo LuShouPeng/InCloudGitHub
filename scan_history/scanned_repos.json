@@ -2981,8 +2981,36 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "zhao-zilong/ssc-cot": {
+      "first_scan": "2026-03-05 04:05:40",
+      "last_scan": "2026-03-05 04:05:40",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "TesslateAI/Studio": {
+      "first_scan": "2026-03-05 04:19:40",
+      "last_scan": "2026-03-05 04:19:40",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "mostafizemon/fastapi-k8s-deploy": {
+      "first_scan": "2026-03-05 04:19:48",
+      "last_scan": "2026-03-05 04:19:48",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
+    },
+    "prof-jblee/ai_agent_class": {
+      "first_scan": "2026-03-05 04:19:53",
+      "last_scan": "2026-03-05 04:19:53",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 426,
-  "last_updated": "2026-03-04 04:16:33"
+  "total_scanned": 430,
+  "last_updated": "2026-03-05 04:19:53"
 }
