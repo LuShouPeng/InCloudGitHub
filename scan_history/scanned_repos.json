@@ -3023,8 +3023,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "fu351/CHW_MVP": {
+      "first_scan": "2026-03-08 04:31:00",
+      "last_scan": "2026-03-08 04:31:00",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 432,
-  "last_updated": "2026-03-07 03:54:00"
+  "total_scanned": 433,
+  "last_updated": "2026-03-08 04:31:00"
 }
