@@ -3436,8 +3436,15 @@
       "findings_count": 0,
       "scan_type": "auto:ai-projects",
       "scan_count": 1
+    },
+    "longtho638-jpg/mekong-cli": {
+      "first_scan": "2026-04-06 05:14:32",
+      "last_scan": "2026-04-06 05:14:32",
+      "findings_count": 0,
+      "scan_type": "auto:ai-projects",
+      "scan_count": 1
     }
   },
-  "total_scanned": 491,
-  "last_updated": "2026-04-05 04:45:04"
+  "total_scanned": 492,
+  "last_updated": "2026-04-06 05:14:32"
 }
